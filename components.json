@@ -1,0 +1,82 @@
+{
+  "skills": [
+    {
+      "name": "coin-list",
+      "path": "official/web3/coin-list",
+      "category": "web3",
+      "scope": "official",
+      "type": "skill",
+      "description": "List and query cryptocurrency information quickly.",
+      "version": "1.0.0",
+      "author": "elden",
+      "license": "MIT",
+      "keywords": ["web3", "crypto", "coins"],
+      "commit-hash": "init"
+    },
+    {
+      "name": "token-analyzer",
+      "path": "official/web3/token-analyzer",
+      "category": "web3",
+      "scope": "official",
+      "type": "skill",
+      "description": "Analyze token contracts and on-chain token metrics.",
+      "version": "1.0.0",
+      "author": "elden",
+      "license": "MIT",
+      "keywords": ["web3", "token", "analysis"],
+      "commit-hash": "init"
+    },
+    {
+      "name": "contract-deployer",
+      "path": "official/web3/contract-deployer",
+      "category": "web3",
+      "scope": "official",
+      "type": "skill",
+      "description": "Deploy and verify smart contracts with scripted helpers.",
+      "version": "1.0.0",
+      "author": "elden",
+      "license": "MIT",
+      "keywords": ["web3", "contract", "deploy"],
+      "commit-hash": "init"
+    },
+    {
+      "name": "unity-helper",
+      "path": "official/game/unity-helper",
+      "category": "game",
+      "scope": "official",
+      "type": "skill",
+      "description": "Practical helper for Unity game dev workflows.",
+      "version": "1.0.0",
+      "author": "elden",
+      "license": "MIT",
+      "keywords": ["game", "unity", "workflow"],
+      "commit-hash": "init"
+    },
+    {
+      "name": "nft-minter",
+      "path": "community/web3/nft-minter",
+      "category": "web3",
+      "scope": "community",
+      "type": "skill",
+      "description": "Community skill for basic NFT minting flows.",
+      "version": "1.0.0",
+      "author": "community",
+      "license": "MIT",
+      "keywords": ["web3", "nft", "mint"],
+      "commit-hash": "init"
+    },
+    {
+      "name": "git-workflow",
+      "path": "community/devtools/git-workflow",
+      "category": "devtools",
+      "scope": "community",
+      "type": "skill",
+      "description": "Community scripts and conventions for safe Git workflows.",
+      "version": "1.0.0",
+      "author": "community",
+      "license": "MIT",
+      "keywords": ["git", "devtools", "workflow"],
+      "commit-hash": "init"
+    }
+  ]
+}
