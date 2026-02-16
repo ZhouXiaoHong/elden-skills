@@ -11,7 +11,7 @@
       "author": "elden",
       "license": "MIT",
       "keywords": ["web3", "crypto", "coins"],
-      "commit-hash": "init"
+      "commit-hash": "e7693561097c1dd4ca6e4c1ca4337985eb3eab75"
     },
     {
       "name": "token-analyzer",
@@ -24,7 +24,7 @@
       "author": "elden",
       "license": "MIT",
       "keywords": ["web3", "token", "analysis"],
-      "commit-hash": "init"
+      "commit-hash": "e7693561097c1dd4ca6e4c1ca4337985eb3eab75"
     },
     {
       "name": "contract-deployer",
@@ -37,7 +37,7 @@
       "author": "elden",
       "license": "MIT",
       "keywords": ["web3", "contract", "deploy"],
-      "commit-hash": "init"
+      "commit-hash": "e7693561097c1dd4ca6e4c1ca4337985eb3eab75"
     },
     {
       "name": "unity-helper",
@@ -50,7 +50,7 @@
       "author": "elden",
       "license": "MIT",
       "keywords": ["game", "unity", "workflow"],
-      "commit-hash": "init"
+      "commit-hash": "e7693561097c1dd4ca6e4c1ca4337985eb3eab75"
     },
     {
       "name": "nft-minter",
@@ -63,7 +63,7 @@
       "author": "community",
       "license": "MIT",
       "keywords": ["web3", "nft", "mint"],
-      "commit-hash": "init"
+      "commit-hash": "e7693561097c1dd4ca6e4c1ca4337985eb3eab75"
     },
     {
       "name": "git-workflow",
@@ -76,7 +76,7 @@
       "author": "community",
       "license": "MIT",
       "keywords": ["git", "devtools", "workflow"],
-      "commit-hash": "init"
+      "commit-hash": "e7693561097c1dd4ca6e4c1ca4337985eb3eab75"
     }
   ]
 }
